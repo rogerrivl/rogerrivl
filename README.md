@@ -1,4 +1,9 @@
-# Hi there 👋, I'm Roger 
+# Hi there 👋, Welcome. I'm Roger
+
+- 🔭 I’m currently working on: As junior software developer. I'm the creator of DSN Europe iOS app, which converts DSN (Defense Switch Network) numbers into commercial phone numbers. 
+- 🌱 I’m currently learning: I'm currenlty learning React & React Native. 
+- 📫 How to reach me: rogerrivl.dev@gmail.com
+
 <!--
 **rogerrivl/rogerrivl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
