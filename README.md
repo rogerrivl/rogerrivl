@@ -1,6 +1,7 @@
 # Hi there 👋, Welcome. I'm Roger
 
-- 🔭 I’m currently working on: As junior software developer. I'm the creator of DSN Europe iOS app, which converts DSN (Defense Switch Network) numbers into commercial phone numbers. 
+- 🔭 I’m currently working as: As junior software developer. 
+  - I'm the creator of DSN Europe iOS app, which converts DSN (Defense Switch Network) numbers into commercial phone numbers. 
 - 🌱 I’m currently learning: React & React Native. 
 - 📫 How to reach me: rogerrivl.dev@gmail.com
 
