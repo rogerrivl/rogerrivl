@@ -18,7 +18,7 @@ Currently, I'm the creator of two projects that I'm particularly proud of: the D
    * Certified Information Systems Security Professional (CISSP) - by October 2023 🗓️
 
 # Education
-   * Software Development and Security Bachelors - UMGC - March 2024
+   * B.A Software Development and Security - UMGC - March 2024
 
 # Contact 
 - 📫 How to reach me: rogerrivl.dev@gmail.com
