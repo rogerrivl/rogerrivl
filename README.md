@@ -9,7 +9,7 @@ Currently, I'm the creator of two projects that I'm particularly proud of: the D
     * Converts DSN (Defense Switch Network) numbers into commercial phone numbers - 11K downloads
     * [Repo](https://github.com/airmencoders/DSN-Converter)
  * AF WHtR - [Try it ](https://rogerrivl.github.io/AF-WHtR/)
-   *  Calculates the waist-to-height ratio for users, helping them to monitor their health and fitness goals.
+   *  Calculates the waist-to-height ratio for users, helping service members to monitor their health and fitness goals.
    * [Repo](https://github.com/rogerrivl/AF-WHtR)   
 # Certifications
    * CompTIA Security+ - Completed ✅
