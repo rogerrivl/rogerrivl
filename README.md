@@ -15,7 +15,7 @@ Currently, I'm the creator of two projects that I'm particularly proud of: the D
    * CompTIA Security+ - Completed ✅
    * Microsoft Azure Fundamentals - Studying 📖
    * AWS Cloud Practitioner - by July 2023 🗓️
-   * Certified Information Systems Security Professional (CISSP) - by Octuber 2023 🗓️
+   * Certified Information Systems Security Professional (CISSP) - by October 2023 🗓️
 
 # Education
    * Software Development and Security Bachelors - UMGC - March 2024
