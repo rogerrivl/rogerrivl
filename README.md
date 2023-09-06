@@ -13,8 +13,8 @@ Currently, I'm the creator of two projects that I'm particularly proud of: the D
    * [Repo](https://github.com/rogerrivl/AF-WHtR)   
 # Certifications
    * CompTIA Security+ - Completed ✅
-   * Microsoft Azure Fundamentals - Studying 📖
-   * AWS Cloud Practitioner - by July 2023 🗓️
+   * Microsoft Azure Fundamentals - Completed ✅
+   * AWS Cloud Practitioner - Studying
    * Certified Information Systems Security Professional (CISSP) - by October 2023 🗓️
 
 # Education
