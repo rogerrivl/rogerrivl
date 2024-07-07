@@ -13,7 +13,7 @@ Currently, I'm the creator of two projects that I'm particularly proud of: the D
    * [Repo](https://github.com/rogerrivl/AF-WHtR)   
 # Certifications
    * CompTIA Security+ - Completed ✅
-   * Microsoft Azure Fundamentals - 
+   * Microsoft Azure Fundamentals - Completed ✅
    * AWS Cloud Practitioner - Completed ✅
    * AWS Certified Developer - Completed ✅
    * Microsoft Power Platform Fundamentals - Completed ✅
